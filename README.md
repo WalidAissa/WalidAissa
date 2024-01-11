@@ -30,4 +30,4 @@ Overall, I am a dedicated and results-driven individual with a strong work ethic
 <hr>
 
 
-<h3><a href="https://github.com/WalidAissa?tab=repositories">🛠️ The Projects I Worked On</a></h3>
+<h3><a href="https://github.com/WalidAissa?tab=repositories">🛠️ Some Projects I Worked On</a></h3>
