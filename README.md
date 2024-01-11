@@ -21,12 +21,13 @@ Overall, I am a dedicated and results-driven individual with a strong work ethic
 <img src="https://github.com/WalidAissa/WalidAissa/assets/94759379/fd174bcd-92e0-4fa5-b729-1ec810f030ac" width="40" height="40">
 <img src="https://github.com/WalidAissa/WalidAissa/assets/94759379/9166fcaa-4a3b-4b80-bacc-1c57416d4917" width="40" height="40">
 <img src="https://github.com/WalidAissa/WalidAissa/assets/94759379/897ca084-2cec-4900-b053-8cc1ac96753f" width="40" height="40">
-<img src="https://github.com/WalidAissa/WalidAissa/assets/94759379/fdefd000-2780-4c32-a266-6dd5fbee75fd" width="40" height="40">
+<img src="https://github.com/WalidAissa/WalidAissa/assets/94759379/4607612d-d893-408f-9665-a0a01fbafe37" width="40" height="40">
 <img src="https://github.com/WalidAissa/WalidAissa/assets/94759379/d0d5726e-24d9-4d08-ba31-499b7bc5e396" width="40" height="40">
 <img src="https://github.com/WalidAissa/WalidAissa/assets/94759379/109b104e-6b8f-403d-b68f-dfcc72286eb5" width="40" height="40">
 <img src="https://github.com/WalidAissa/WalidAissa/assets/94759379/8a36117a-85c6-45c1-92ae-f2d15d6c921a" width="40" height="40">
 <img src="https://github.com/WalidAissa/WalidAissa/assets/94759379/7e94d283-7921-4b90-93b2-5578ebc7a9c2" width="40" height="40">
 
 <hr>
+
 
 <h3><a href="https://github.com/WalidAissa?tab=repositories">🛠️ The Projects I Worked On</a></h3>
