@@ -5,12 +5,21 @@ Overall, I am a dedicated and results-driven individual with a strong work ethic
 
 
 <h2>🧰 Languages and Tools</h2>
-<img src="https://github.com/WalidAissa/WalidAissa/assets/94759379/08178655-43b2-49bb-b241-7d7fead3a281" width="20" height="20">
-<img src="https://github.com/WalidAissa/WalidAissa/assets/94759379/13c6c9a5-98ae-4ff3-a352-206bb1aedf20" width="20" height="20">
-<img src="https://github.com/WalidAissa/WalidAissa/assets/94759379/85092a72-a1af-48aa-932a-a1dbf15707ca" width="20" height="20">
-<img src="https://github.com/WalidAissa/WalidAissa/assets/94759379/b3af2a8b-4d8f-4b47-ba49-bf405f54ccb1" width="20" height="20">
-<img src="https://github.com/WalidAissa/WalidAissa/assets/94759379/9860977a-2f14-47fd-92a7-de04e16d8d36" width="20" height="20">
-
+<img src="https://github.com/WalidAissa/WalidAissa/assets/94759379/08178655-43b2-49bb-b241-7d7fead3a281" width="40" height="40">
+<img src="https://github.com/WalidAissa/WalidAissa/assets/94759379/13c6c9a5-98ae-4ff3-a352-206bb1aedf20" width="40" height="40">
+<img src="https://github.com/WalidAissa/WalidAissa/assets/94759379/85092a72-a1af-48aa-932a-a1dbf15707ca" width="40" height="40">
+<img src="https://github.com/WalidAissa/WalidAissa/assets/94759379/b3af2a8b-4d8f-4b47-ba49-bf405f54ccb1" width="40" height="40">
+<img src="https://github.com/WalidAissa/WalidAissa/assets/94759379/9860977a-2f14-47fd-92a7-de04e16d8d36" width="40" height="40">
+<img src="https://github.com/WalidAissa/WalidAissa/assets/94759379/9860977a-2f14-47fd-92a7-de04e16d8d36" width="40" height="40">
+<img src="https://github.com/WalidAissa/WalidAissa/assets/94759379/9860977a-2f14-47fd-92a7-de04e16d8d36" width="40" height="40">
+<img src="https://github.com/WalidAissa/WalidAissa/assets/94759379/9860977a-2f14-47fd-92a7-de04e16d8d36" width="40" height="40">
+<img src="https://github.com/WalidAissa/WalidAissa/assets/94759379/9860977a-2f14-47fd-92a7-de04e16d8d36" width="40" height="40">
+<img src="https://github.com/WalidAissa/WalidAissa/assets/94759379/9860977a-2f14-47fd-92a7-de04e16d8d36" width="40" height="40">
+<img src="https://github.com/WalidAissa/WalidAissa/assets/94759379/9860977a-2f14-47fd-92a7-de04e16d8d36" width="40" height="40">
+<img src="https://github.com/WalidAissa/WalidAissa/assets/94759379/9860977a-2f14-47fd-92a7-de04e16d8d36" width="40" height="40">
+<img src="https://github.com/WalidAissa/WalidAissa/assets/94759379/9860977a-2f14-47fd-92a7-de04e16d8d36" width="40" height="40">
+<img src="https://github.com/WalidAissa/WalidAissa/assets/94759379/9860977a-2f14-47fd-92a7-de04e16d8d36" width="40" height="40">
+<img src="https://github.com/WalidAissa/WalidAissa/assets/94759379/9860977a-2f14-47fd-92a7-de04e16d8d36" width="40" height="40">
 
 
 
