@@ -4,7 +4,7 @@
 
 <h3>👋 Welcome! </h3>
 Currently enrolled in a Bachelor of Computer Engineering 💻 at McGill University 🎓, my interests range from the fields of study of my degree (hardware/software development 👨🏽‍💻, telecommunications 📡, robotics 🤖, medical technologies 🫀, automotive and aerospace industry 🚀) to anything that involves creation.
-</br>
+<br>
 Overall, I am a dedicated and results-driven individual with a strong work ethic, excellent problem-solving abilities, and a commitment to continuous learning and growth 🌱. I look forward to connecting with other professionals in my field and exploring opportunities to further my career in the exciting and ever-evolving world of technology 🌍.
 
 <hr>
